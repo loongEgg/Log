@@ -8,6 +8,12 @@
     <Description>cross platform log tool , contains debug, console and file loggers.Lowest target framework is netcore3.1 or net4.5</Description>
     <AssemblyVersion>0.1.1.0</AssemblyVersion>
     <FileVersion>0.1.1.0</FileVersion>
+    <Authors>LoongEgg</Authors>
+    <Company>LoongEgg</Company>
+    <Product>LoongEgg.Log</Product>
+    <Copyright>MIT</Copyright>
+    <RepositoryUrl>https://github.com/loongEgg/Log</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netcoreapp3.1|AnyCPU'">
